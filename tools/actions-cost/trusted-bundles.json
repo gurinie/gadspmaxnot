@@ -1,0 +1,22 @@
+{
+  "bundles": [
+    {
+      "files": {
+        "actions_cost/__init__.py": "94fde6838ec502252f2b332544a7e309a7acd962a3af2e5c9f3863769213551f",
+        "actions_cost/billing.py": "f7a17551ec02f3d04edc195b58b7fe43844a099ee116f999ab16c638858b1d5f",
+        "actions_cost/cli.py": "459cce644297dbec57f1d7529b15c28474f9b308e5dcfad0898f4dfb9d7dd8f8",
+        "actions_cost/github.py": "df4087a22c08e9ce496d42b39e96872c2ba00f0935274908202978cf3fb8b692",
+        "actions_cost/monitor.py": "0b02c7d60730c1015734dbc6f575ee72867312510217386d73613c7d2552c61f",
+        "actions_cost/policy.py": "dc88eb26687436b6946c1923fae08f4d485a335d063431dd0162912fae6085da",
+        "actions_cost/push.py": "5aa748033a0ba9f26f77ac6b2651be0be9bdcd4343cc94e8753237e9d3a8bad6",
+        "check.py": "58cb14426e834bd47fb455feadada70308ce72bf734878d1947e99792d07577f",
+        "compare_ci_runs.py": "6e7af6def56a6be953266437f06776fab2c9681fc32310ef5148a4c513402000",
+        "requirements.lock": "d0945965181cd332b903c63e407b0c906eac3a0a3c552c34d46e4061a3408db7",
+        "tests/test_comparison.py": "228d1b7a09ceb192962bc249f371953b2d953e38e1cc37825f13a801eb4f9596",
+        "tests/test_controls.py": "56b0fc33863668859ebe7872c685a719b3e467c00bc7d43dcfc93d6c17c2b40e"
+      },
+      "source": "gurinie/github-actions-policy",
+      "version": "1.0.0"
+    }
+  ]
+}

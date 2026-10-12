@@ -1,0 +1,20 @@
+{
+  "files": {
+    "actions_cost/__init__.py": "c8daf612f59247523694ebb7f9ce5d5758c3e401bae198fb1c472378221c2325",
+    "actions_cost/billing.py": "863909009d37a2c8a0fcaaf0eefefd96d864fa884c5ece3da0a4fa3ce5d69bf4",
+    "actions_cost/cli.py": "c80ca9f4a1a41e9a0c9be19bccbdffcdbde349c0d07f19ef6bb2d7f1c2e467a0",
+    "actions_cost/github.py": "943942eb08193c29f7e0911e779a753f9871e78d467cacefe07caf41b8067951",
+    "actions_cost/monitor.py": "30340354c70c018102ff9a1bb6251bf21e616125a96d3ef9ab7334252f5cd875",
+    "actions_cost/policy.py": "0d61ef080f32fa76390d967c873eb33793941bc71dcb11b68b23c735af7c4833",
+    "actions_cost/push.py": "0897720291a5cdad08abfede930d25980d7d528dd22e5cabf97cccecff363ffd",
+    "check.py": "58cb14426e834bd47fb455feadada70308ce72bf734878d1947e99792d07577f",
+    "compare_ci_runs.py": "6e7af6def56a6be953266437f06776fab2c9681fc32310ef5148a4c513402000",
+    "requirements.lock": "d0945965181cd332b903c63e407b0c906eac3a0a3c552c34d46e4061a3408db7",
+    "tests/test_advisory.py": "1b334fd5c9cfa0be5584f59b16fa8943cc38d3f1dde6fd42bc7eecb871124a19",
+    "tests/test_comparison.py": "228d1b7a09ceb192962bc249f371953b2d953e38e1cc37825f13a801eb4f9596",
+    "tests/test_controls.py": "55031c8d264c86f3e9179fee8d6777078fa3ef182367b12b0197daa2286232cc",
+    "trusted-bundles.json": "d3adbb632ca1a67c6bce7738f8399bafe3a8840f31a86109fdc594f98f3c82a7"
+  },
+  "source": "gurinie/github-actions-policy",
+  "version": "1.1.0"
+}
